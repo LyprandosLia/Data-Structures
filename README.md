@@ -5,6 +5,5 @@ The list contains :
   2) Double Linked List
   3) Binary Tree
   4) Stack
-  5) Quick Sort
-  6) DFS and BFS
+
 
